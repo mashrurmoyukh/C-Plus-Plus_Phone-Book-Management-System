@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1404852234 source:c:\users\moyukh\desktop\phone book management\contact info.cpp
+	"Contact info.h"
+
+1404852225 c:\users\moyukh\desktop\phone book management\contact info.h
+	<iostream>
+	<string>
+
+1404763601 source:c:\users\moyukh\desktop\phone book management\main.cpp
+	"Phone Book.h"
+
+1404845426 c:\users\moyukh\desktop\phone book management\phone book.h
+	"Contact Info.h"
+
+1404848780 source:c:\users\moyukh\desktop\phone book management\phone book.cpp
+	"Phone Book.h"
+
+1404805436 source:f:\phone book management\contact info.cpp
+	"Contact info.h"
+
+1404805426 f:\phone book management\contact info.h
+	<iostream>
+	<string>
+
+1404716802 source:f:\phone book management\main.cpp
+	"Phone Book.h"
+
+1404798628 f:\phone book management\phone book.h
+	"Contact Info.h"
+
+1404828793 source:f:\phone book management\phone book.cpp
+	"Phone Book.h"
+	<string>
+
